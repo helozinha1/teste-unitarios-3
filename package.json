@@ -1,0 +1,24 @@
+{
+  "name": "teste-unitarios-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sistema.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helozinha1/teste-unitarios-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/helozinha1/teste-unitarios-3/issues"
+  },
+  "homepage": "https://github.com/helozinha1/teste-unitarios-3#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
